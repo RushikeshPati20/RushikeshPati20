@@ -6,4 +6,3 @@ My name is Rushikesh and I'm an undergraduate computer science student and curre
 
 📚 I'm currently learning NLP and Large Language Models.
 
-🎯 Goal: To become an AI engineer.
