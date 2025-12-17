@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
-<h3 align="center">A passionate about Data Science, ML, AI, DL</h3>
+<h3 align="center"> Data Science, ML, AI, DL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshpati20&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshpati20" /> </p>
 
