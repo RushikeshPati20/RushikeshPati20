@@ -1,3 +1,4 @@
+<img src="https://github.com/RushikeshPati20/RushikeshPati20/blob/main/github.png">
 
 <h1 align="center">Hello! I'm Rushikesh Patil 👋</h1>
 <h3 align="center">AI Engineer | Applied ML & NLP | LLMs, RAG, FastAPI | PyTorch | LangChain | GCP </h3>
